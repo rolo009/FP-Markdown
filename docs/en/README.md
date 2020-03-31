@@ -1,17 +1,17 @@
 # FP-Markdown
 
-Nome do Estudante
+Student Name
 
-`Número do Estudante`
+`Student Number`
 
-## Linguagens de programação conhecidas:
+## Programming languages ​​learned:
 
 - C
 - Javascript
 - Python
 - ...
 
-> Metodologias de Desenvolvimento de Software
+> Software Development Methodologies
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/9a/Log%C3%B3tipo_Polit%C3%A9cnico_Leiria_01.png)
